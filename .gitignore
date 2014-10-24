@@ -1,0 +1,29 @@
+# Unity 
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+*.pidb
+*.csproj
+*.unityproj
+*.booproj
+*.svd
+*.user
+*.userprefs
+*.suo
+*.sln
+
+# Mac
+*.DS_Store
+iOS_Xcode
+Assets/StreamingAssets/config.txt
+Assets/StreamingAssets/config.txt.meta
+Assets/MyAssets/Resources/Misc/config_development.txt
+Assets/MyAssets/Resources/Misc/config_development.txt.meta
+
+# UnityVS
+*.DotSettings
+/UnityVS*
+/Assets/Vendor/UnityVS
+/Assets/Vendor/UnityVS.meta
+
+[#]*
